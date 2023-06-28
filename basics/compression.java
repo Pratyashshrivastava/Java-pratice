@@ -16,12 +16,12 @@ public class compression {
         //&&
         int a = 600;
         int b = 40;
-        if(a<50 || b<50){
+        if(a<50 && b<50){
             System.out.println("both less than 50");
         }
 
         // conditonal statement - SWITCH
-        int day = 2; // 1- monday, 2- tuesday
+        int day = 1; // 1- monday, 2- tuesday
 
         switch(day){
             case 1:
