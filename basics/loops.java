@@ -4,9 +4,9 @@ import javax.xml.transform.SourceLocator;
 
 public class loops {
     public static void main(String[] args) {
-    //     for(int i = 100; i >=0; i=i-10){
-    //         System.out.println(i);
-    //     }
+        for(int i = 100; i >=0; i=i-10){
+            System.out.println(i);
+        }
     //     int i =100;
     //     while(i>=1){
     //         System.out.println(i);

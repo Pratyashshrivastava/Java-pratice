@@ -2,10 +2,10 @@ package basics;
 public class operators {
     public static void main(String[] args) {
         // 1) Arithmatic operators: (+,-,*, /, %)
-        int a = 10;
+        int a = 1;
         int b = 2;
-        int sum = a%b;
-        // System.out.println(sum);
+        int sum = a+b;
+        System.out.println(sum);
 
         // 2) Assignment operators: (=, ++, --)
         int num = 1;

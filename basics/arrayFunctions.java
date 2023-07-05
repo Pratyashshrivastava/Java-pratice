@@ -9,7 +9,6 @@ public class arrayFunctions {
         marks[0] = 97;
         marks[1] = 92;
         marks[2]= 99;
-        // marks[3]="kush";
         // for(int i=0; i<3; i++){
         //     marks[i] = 99;
         // }
@@ -19,7 +18,7 @@ public class arrayFunctions {
         System.out.println(marks[0]);
         Arrays.sort(marks);
         System.out.println(marks[0]);
-        // System.out.println(marks);
+
         // If we already know what are the values we want to put in arrays the this is how we initialise the array:
         int [] marks2 = {97,98,99};
 
